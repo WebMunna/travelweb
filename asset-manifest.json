@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/travelweb/static/css/main.7714a71b.css",
+    "main.js": "/travelweb/static/js/main.8d20f333.js",
+    "static/media/p-3.png": "/travelweb/static/media/p-3.0634d8a1ba1ed515db5a.png",
+    "static/media/blog-2.svg": "/travelweb/static/media/blog-2.6c72a53a755f91063865850e53e134ce.svg",
+    "static/media/blog-1.svg": "/travelweb/static/media/blog-1.a42a40fbf951441f37a4c68f5fbfece2.svg",
+    "static/media/blog-3.svg": "/travelweb/static/media/blog-3.f398b24e7cdea39ea9eb5fa0684b4bd0.svg",
+    "static/media/p-5.jpg": "/travelweb/static/media/p-5.b3c0bfc1fe51a9eb0276.jpg",
+    "static/media/p-2.jpg": "/travelweb/static/media/p-2.f5b7468160ecc8e97c91.jpg",
+    "static/media/p-1.jpg": "/travelweb/static/media/p-1.3ca8ca2c4bca5a4b9735.jpg",
+    "static/media/p-4.jpg": "/travelweb/static/media/p-4.d97abb61c8aeda441298.jpg",
+    "static/media/p-6.jpg": "/travelweb/static/media/p-6.11fc234387e4868260c0.jpg",
+    "static/media/pic-4.png": "/travelweb/static/media/pic-4.b9d9b2d2102a38f4a5cf.png",
+    "static/media/pic-1.png": "/travelweb/static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/pic-2.png": "/travelweb/static/media/pic-2.5d5e42bfc8bc3622b556.png",
+    "static/media/pic-3.png": "/travelweb/static/media/pic-3.1ef1ecba9db4ad9c12c8.png",
+    "static/media/logo-w.png": "/travelweb/static/media/logo-w.3361eaa7feb402f29f79.png",
+    "static/media/logo-b.png": "/travelweb/static/media/logo-b.abd84e2e613a8f7075ff.png",
+    "static/media/vector.png": "/travelweb/static/media/vector.5519d7781124b23c31fd.png",
+    "index.html": "/travelweb/index.html",
+    "main.7714a71b.css.map": "/travelweb/static/css/main.7714a71b.css.map",
+    "main.8d20f333.js.map": "/travelweb/static/js/main.8d20f333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7714a71b.css",
+    "static/js/main.8d20f333.js"
+  ]
+}
